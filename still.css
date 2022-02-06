@@ -1,0 +1,85 @@
+
+.div1{
+	width: 100%;
+	height:;
+	
+}
+
+.ustmenu{
+	position: absolute;
+	top:6%;
+	right:18%;
+	font-family:times roman;
+}
+ul{
+	font-size: 15px;
+}
+
+A:link { background-color:#4b4b4b; opacity: 0.8; border-radius: 7px;}
+A:visited {  color: white;}
+A:active {color: white; }
+A:hover { color: ;  opacity: 1.9; border-radius: 7px;}
+
+#orta{
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+
+.yazi1{
+	position: absolute;
+	top:12%;
+	left: 3%;
+	color:white;
+	font-size: 70px;
+	font-family: 'Bahiana'
+}
+
+.giris{
+	font-family:times roman;
+	height: 35%;
+	width: 35%;
+	background-color: #e74c3c;
+	position: absolute;
+	top: 32%;
+	left:9%;
+	border-radius: 10px;
+}
+.form-horizontal{
+	color: white;
+	position: relative;
+	top: 21%;
+	left: 13%;
+}
+.babadiv{
+	position: absolute;
+	top: 0%;
+	right:6%;
+	width: 45%;
+	height: 65%;
+}
+
+.kayitol{
+font-family:times roman;
+	border-radius: 10px;
+	position: absolute;
+	top:25%;
+    left: 16%;
+    width: 80%;
+    height: 80%;
+}
+#kayitac{
+	position:absolute; z-index:3;
+		background-color: #01a3a4 ;
+
+	
+}
+#neden{
+	position:absolute; z-index:2;
+	background-color: #fdcb6e;
+	font-family: 'Indie Flower';
+	font-size: 22px;
+    text-align: center;
+	
+}
+

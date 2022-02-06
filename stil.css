@@ -1,0 +1,18 @@
+A.blog-nav-item:link {text-decoration: none;}
+A.blog-nav-item:visited {text-decoration: none; color:white;}
+A.blog-nav-item:active {text-decoration: none; color:white;}
+A.blog-nav-item:hover { text-decoration: none; color:#d1d8e0;}
+
+.menu{
+	height:40px;
+	background-color:#2d98da;
+	font-family: times roman;
+}
+.blog-nav{
+	position: relative;
+	top: 8px;
+}
+
+textarea {
+
+}
